@@ -8,6 +8,11 @@ one myself!
 
 **IMPORTANT: this will only work on terminals that support 256 colors**
 
+**NOTE: as someone from the cmus-devel mailing list pointed out, the theme
+on the screenshot is _zenburn_, which is available
+[here](http://gitorious.org/cmus/cmus/blobs/master/data/zenburn.theme)
+and should ship with cmus on upcoming releases.**
+
 Instructions
 ------------
 
